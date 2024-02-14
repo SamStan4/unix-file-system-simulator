@@ -1,6 +1,7 @@
 type-time created-path
-D-Wed Feb 14 13:30:22 2024-/Desktop
-D-Wed Feb 14 13:31:26 2024-/Desktop/assignment-1-SamStan4
-D-Wed Feb 14 13:30:28 2024-/Downloads
-D-Wed Feb 14 13:30:33 2024-/Photos
 D-Wed Feb 14 13:30:42 2024-/$Bin
+D-Wed Feb 14 13:30:33 2024-/Photos
+D-Wed Feb 14 13:30:28 2024-/Downloads
+D-Wed Feb 14 13:30:22 2024-/Desktop
+D-Wed Feb 14 14:10:07 2024-/Desktop/new
+F-Wed Feb 14 14:10:14 2024-/Desktop/new/test.txt
