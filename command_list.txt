@@ -1,0 +1,14 @@
+mkdir
+rmdir
+ls
+cd
+pwd
+creat
+rm
+reload
+save
+quit
+help
+clear
+exit
+egg
